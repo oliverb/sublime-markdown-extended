@@ -119,6 +119,7 @@ Note that in order for a language to be highlighted properly, you must have the 
 * `go`
 * `lodash`
 * `handlebars|hbs`: requires the Sublime Text [Handlebars](https://github.com/daaain/Handlebars) package
+* `haskell`
 * `html|html5`
 * `ini`
 * `jade`
